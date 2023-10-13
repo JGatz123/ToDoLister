@@ -8,16 +8,16 @@ This application requires no additional softeware or programs to be installed. A
 
 ## Usage: 
 ### The user will open the site and be greeted with this homescreen
-![](./assets/rmeimgs/td1.png)
+![](./Assets/rmeimgs/td1.png)
 
 ### The user will then click the "get started" and be shown a page where they can input notes
-![](./assets/rmeimgs/td2.png)
+![](./Assets/rmeimgs/td2.png)
 
 ### The user will then be able to type a note by clicking the "+" sign in the top corner,
-![](./assets/rmeimgs/td3.png)
+![](./Assets/rmeimgs/td3.png)
 
 ### After typing the note the user will click the save icon which will appear in the top right corner and the new data will be uploaded and saved,
-![](./assets/rmeimgs/td4.png)
+![](./Assets/rmeimgs/td4.png)
 
 MIT License
 
